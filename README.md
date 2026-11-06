@@ -3,7 +3,7 @@
 A tiny Jest-style test framework built from scratch in JavaScript, with a terminal runner and a browser test report.
 
 ## Live Demo
-Not deployed yet
+https://forgetest-hb.netlify.app
 
 ## Screenshot
 ![ForgeTest screenshot](screenshot.png)
